@@ -1,0 +1,255 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\Photon-OnPremise-Server-SDK_v4-0-29-11263\\src-server\\GameServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|GameServer||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEEB10C7-A969-492A-851C-827379D8A1AC}|GameServer\\GameServer.csproj|c:\\users\\user\\desktop\\photon-onpremise-server-sdk_v4-0-29-11263\\src-server\\gameserver\\gameserver\\handlers\\gameplayhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEEB10C7-A969-492A-851C-827379D8A1AC}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\handlers\\gameplayhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEEB10C7-A969-492A-851C-827379D8A1AC}|GameServer\\GameServer.csproj|C:\\Users\\user\\Desktop\\Photon-OnPremise-Server-SDK_v4-0-29-11263\\src-server\\GameServer\\gameserver\\handlers\\loginhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEEB10C7-A969-492A-851C-827379D8A1AC}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\handlers\\loginhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEEB10C7-A969-492A-851C-827379D8A1AC}|GameServer\\GameServer.csproj|C:\\Users\\user\\Desktop\\Photon-OnPremise-Server-SDK_v4-0-29-11263\\src-server\\GameServer\\gameserver\\helper\\friendhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEEB10C7-A969-492A-851C-827379D8A1AC}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\helper\\friendhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEEB10C7-A969-492A-851C-827379D8A1AC}|GameServer\\GameServer.csproj|C:\\Users\\user\\Desktop\\Photon-OnPremise-Server-SDK_v4-0-29-11263\\src-server\\GameServer\\gameserver\\handlers\\friendhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEEB10C7-A969-492A-851C-827379D8A1AC}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\handlers\\friendhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEEB10C7-A969-492A-851C-827379D8A1AC}|GameServer\\GameServer.csproj|C:\\Users\\user\\Desktop\\Photon-OnPremise-Server-SDK_v4-0-29-11263\\src-server\\GameServer\\gameserver\\roommode\\gameplayextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEEB10C7-A969-492A-851C-827379D8A1AC}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\roommode\\gameplayextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEEB10C7-A969-492A-851C-827379D8A1AC}|GameServer\\GameServer.csproj|C:\\Users\\user\\Desktop\\Photon-OnPremise-Server-SDK_v4-0-29-11263\\src-server\\GameServer\\gameserver\\roommode\\roomextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEEB10C7-A969-492A-851C-827379D8A1AC}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\roommode\\roomextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{180EAF4B-F13F-4959-9A38-250C3D887EE9}|GameClient\\GameClient.csproj|C:\\Users\\user\\Desktop\\Photon-OnPremise-Server-SDK_v4-0-29-11263\\src-server\\GameServer\\gameclient\\constructor\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{180EAF4B-F13F-4959-9A38-250C3D887EE9}|GameClient\\GameClient.csproj|solutionrelative:gameclient\\constructor\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{180EAF4B-F13F-4959-9A38-250C3D887EE9}|GameClient\\GameClient.csproj|C:\\Users\\user\\Desktop\\Photon-OnPremise-Server-SDK_v4-0-29-11263\\src-server\\GameServer\\gameclient\\enums\\gameplaycode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{180EAF4B-F13F-4959-9A38-250C3D887EE9}|GameClient\\GameClient.csproj|solutionrelative:gameclient\\enums\\gameplaycode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{180EAF4B-F13F-4959-9A38-250C3D887EE9}|GameClient\\GameClient.csproj|C:\\Users\\user\\Desktop\\Photon-OnPremise-Server-SDK_v4-0-29-11263\\src-server\\GameServer\\gameclient\\constructor\\roleproperties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{180EAF4B-F13F-4959-9A38-250C3D887EE9}|GameClient\\GameClient.csproj|solutionrelative:gameclient\\constructor\\roleproperties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{180EAF4B-F13F-4959-9A38-250C3D887EE9}|GameClient\\GameClient.csproj|C:\\Users\\user\\Desktop\\Photon-OnPremise-Server-SDK_v4-0-29-11263\\src-server\\GameServer\\gameclient\\constructor\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{180EAF4B-F13F-4959-9A38-250C3D887EE9}|GameClient\\GameClient.csproj|solutionrelative:gameclient\\constructor\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{180EAF4B-F13F-4959-9A38-250C3D887EE9}|GameClient\\GameClient.csproj|C:\\Users\\user\\Desktop\\Photon-OnPremise-Server-SDK_v4-0-29-11263\\src-server\\GameServer\\gameclient\\constructor\\userdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{180EAF4B-F13F-4959-9A38-250C3D887EE9}|GameClient\\GameClient.csproj|solutionrelative:gameclient\\constructor\\userdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEEB10C7-A969-492A-851C-827379D8A1AC}|GameServer\\GameServer.csproj|c:\\users\\user\\desktop\\photon-onpremise-server-sdk_v4-0-29-11263\\src-server\\gameserver\\gameserver\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|a54ad834-9219-4aa6-b589-607af21c3e26"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 289,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:7:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameServer",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Photon-OnPremise-Server-SDK_v4-0-29-11263\\src-server\\GameServer\\GameServer\\GameServer.csproj",
+              "RelativeDocumentMoniker": "GameServer\\GameServer.csproj",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Photon-OnPremise-Server-SDK_v4-0-29-11263\\src-server\\GameServer\\GameServer\\GameServer.csproj",
+              "RelativeToolTip": "GameServer\\GameServer.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-14T01:40:31.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FriendHandler.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Photon-OnPremise-Server-SDK_v4-0-29-11263\\src-server\\GameServer\\GameServer\\Handlers\\FriendHandler.cs",
+              "RelativeDocumentMoniker": "GameServer\\Handlers\\FriendHandler.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Photon-OnPremise-Server-SDK_v4-0-29-11263\\src-server\\GameServer\\GameServer\\Handlers\\FriendHandler.cs",
+              "RelativeToolTip": "GameServer\\Handlers\\FriendHandler.cs",
+              "ViewState": "AQIAANAAAAAAAAAAAAAAAOMAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T01:39:20.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FriendHelper.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Photon-OnPremise-Server-SDK_v4-0-29-11263\\src-server\\GameServer\\GameServer\\Helper\\FriendHelper.cs",
+              "RelativeDocumentMoniker": "GameServer\\Helper\\FriendHelper.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Photon-OnPremise-Server-SDK_v4-0-29-11263\\src-server\\GameServer\\GameServer\\Helper\\FriendHelper.cs",
+              "RelativeToolTip": "GameServer\\Helper\\FriendHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJgAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T01:39:20.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GamePlayHandler.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Photon-OnPremise-Server-SDK_v4-0-29-11263\\src-server\\GameServer\\GameServer\\Handlers\\GamePlayHandler.cs",
+              "RelativeDocumentMoniker": "GameServer\\Handlers\\GamePlayHandler.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Photon-OnPremise-Server-SDK_v4-0-29-11263\\src-server\\GameServer\\GameServer\\Handlers\\GamePlayHandler.cs",
+              "RelativeToolTip": "GameServer\\Handlers\\GamePlayHandler.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAQwAgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T01:39:20.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RoomExtension.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Photon-OnPremise-Server-SDK_v4-0-29-11263\\src-server\\GameServer\\GameServer\\RoomMode\\RoomExtension.cs",
+              "RelativeDocumentMoniker": "GameServer\\RoomMode\\RoomExtension.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Photon-OnPremise-Server-SDK_v4-0-29-11263\\src-server\\GameServer\\GameServer\\RoomMode\\RoomExtension.cs",
+              "RelativeToolTip": "GameServer\\RoomMode\\RoomExtension.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAIA2wB4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T01:39:20.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Photon-OnPremise-Server-SDK_v4-0-29-11263\\src-server\\GameServer\\GameClient\\Constructor\\Player.cs",
+              "RelativeDocumentMoniker": "GameClient\\Constructor\\Player.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Photon-OnPremise-Server-SDK_v4-0-29-11263\\src-server\\GameServer\\GameClient\\Constructor\\Player.cs",
+              "RelativeToolTip": "GameClient\\Constructor\\Player.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T01:39:20.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginHandler.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Photon-OnPremise-Server-SDK_v4-0-29-11263\\src-server\\GameServer\\GameServer\\Handlers\\LoginHandler.cs",
+              "RelativeDocumentMoniker": "GameServer\\Handlers\\LoginHandler.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Photon-OnPremise-Server-SDK_v4-0-29-11263\\src-server\\GameServer\\GameServer\\Handlers\\LoginHandler.cs",
+              "RelativeToolTip": "GameServer\\Handlers\\LoginHandler.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAMwCQAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T01:39:20.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GamePlayExtension.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Photon-OnPremise-Server-SDK_v4-0-29-11263\\src-server\\GameServer\\GameServer\\RoomMode\\GamePlayExtension.cs",
+              "RelativeDocumentMoniker": "GameServer\\RoomMode\\GamePlayExtension.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Photon-OnPremise-Server-SDK_v4-0-29-11263\\src-server\\GameServer\\GameServer\\RoomMode\\GamePlayExtension.cs",
+              "RelativeToolTip": "GameServer\\RoomMode\\GamePlayExtension.cs",
+              "ViewState": "AQIAAK4AAAAAAAAAAAAAAK4AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T01:39:20.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GamePlayCode.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Photon-OnPremise-Server-SDK_v4-0-29-11263\\src-server\\GameServer\\GameClient\\Enums\\GamePlayCode.cs",
+              "RelativeDocumentMoniker": "GameClient\\Enums\\GamePlayCode.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Photon-OnPremise-Server-SDK_v4-0-29-11263\\src-server\\GameServer\\GameClient\\Enums\\GamePlayCode.cs",
+              "RelativeToolTip": "GameClient\\Enums\\GamePlayCode.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABkAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T01:39:20.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RoleProperties.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Photon-OnPremise-Server-SDK_v4-0-29-11263\\src-server\\GameServer\\GameClient\\Constructor\\RoleProperties.cs",
+              "RelativeDocumentMoniker": "GameClient\\Constructor\\RoleProperties.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Photon-OnPremise-Server-SDK_v4-0-29-11263\\src-server\\GameServer\\GameClient\\Constructor\\RoleProperties.cs",
+              "RelativeToolTip": "GameClient\\Constructor\\RoleProperties.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAuwBMAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T01:39:20.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Photon-OnPremise-Server-SDK_v4-0-29-11263\\src-server\\GameServer\\GameClient\\Constructor\\Enemy.cs",
+              "RelativeDocumentMoniker": "GameClient\\Constructor\\Enemy.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Photon-OnPremise-Server-SDK_v4-0-29-11263\\src-server\\GameServer\\GameClient\\Constructor\\Enemy.cs",
+              "RelativeToolTip": "GameClient\\Constructor\\Enemy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T01:39:20.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserData.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Photon-OnPremise-Server-SDK_v4-0-29-11263\\src-server\\GameServer\\GameClient\\Constructor\\UserData.cs",
+              "RelativeDocumentMoniker": "GameClient\\Constructor\\UserData.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Photon-OnPremise-Server-SDK_v4-0-29-11263\\src-server\\GameServer\\GameClient\\Constructor\\UserData.cs",
+              "RelativeToolTip": "GameClient\\Constructor\\UserData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T01:39:20.554Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 171,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 78,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

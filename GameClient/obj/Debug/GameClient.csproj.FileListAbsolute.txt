@@ -1,0 +1,12 @@
+C:\Users\user\Desktop\Photon-OnPremise-Server-SDK_v4-0-29-11263\GameServer\GameClient\bin\Debug\GameClient.dll
+C:\Users\user\Desktop\Photon-OnPremise-Server-SDK_v4-0-29-11263\GameServer\GameClient\bin\Debug\GameClient.pdb
+C:\Users\user\Desktop\Photon-OnPremise-Server-SDK_v4-0-29-11263\GameServer\GameClient\obj\Debug\GameClient.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Photon-OnPremise-Server-SDK_v4-0-29-11263\GameServer\GameClient\obj\Debug\GameClient.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Photon-OnPremise-Server-SDK_v4-0-29-11263\GameServer\GameClient\obj\Debug\GameClient.dll
+C:\Users\user\Desktop\Photon-OnPremise-Server-SDK_v4-0-29-11263\GameServer\GameClient\obj\Debug\GameClient.pdb
+C:\Users\user\Desktop\Photon-OnPremise-Server-SDK_v4-0-29-11263\src-server\GameServer\GameClient\bin\Debug\GameClient.dll
+C:\Users\user\Desktop\Photon-OnPremise-Server-SDK_v4-0-29-11263\src-server\GameServer\GameClient\bin\Debug\GameClient.pdb
+C:\Users\user\Desktop\Photon-OnPremise-Server-SDK_v4-0-29-11263\src-server\GameServer\GameClient\obj\Debug\GameClient.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Photon-OnPremise-Server-SDK_v4-0-29-11263\src-server\GameServer\GameClient\obj\Debug\GameClient.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Photon-OnPremise-Server-SDK_v4-0-29-11263\src-server\GameServer\GameClient\obj\Debug\GameClient.dll
+C:\Users\user\Desktop\Photon-OnPremise-Server-SDK_v4-0-29-11263\src-server\GameServer\GameClient\obj\Debug\GameClient.pdb
